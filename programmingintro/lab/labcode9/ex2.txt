@@ -1,0 +1,7 @@
+This is example text for Exercise 2.
+
+This exercise is related to practice #9.
+
+This program was made by Vladimir.
+
+He studies at TU.
