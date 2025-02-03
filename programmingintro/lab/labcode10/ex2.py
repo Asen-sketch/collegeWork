@@ -39,7 +39,6 @@ def newest_car(cars):
     return newest_cars
 
 
-# Create instances of the Car class
 cars = [
     Car("Toyota", "Camry", 25000, "Blue", 2021),
     Car("Honda", "Civic", 22000, "Red", 2022),
@@ -50,7 +49,6 @@ cars = [
     Car("BMW", "X5", 60000, "Black", 2022)
 ]
 
-# Demonstrate the functions
 print("All Cars:")
 for car in cars:
     car.display_info()
