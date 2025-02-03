@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
+1710766551 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710766551 c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\tasks.h
+
+1711894682 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894683 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894684 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task4.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894685 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task5.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894686 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task6.c
+	<stdio.h>
+	"Tasks.h"
+	
+
+1711950979 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task1.c
+	<stdio.h>
+	"Tasks.h"
+
+1711952345 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1711952345 c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\tasks.h
+
+1711956880 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task1.c
+	<stdio.h>
+	"Tasks.h"
+
+1711953092 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1711956181 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1711953091 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task4.c
+	<stdio.h>
+	"Tasks.h"
+
+1711956601 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task5.c
+	<stdio.h>
+	"Tasks.h"
+
+1711956165 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\2\template\task6.c
+	<stdio.h>
+	"Tasks.h"
+
