@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task10.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task11.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task12.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task7.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task8.c
+	<stdio.h>
+
+1710764543 source:c:\project\tu\projects\template\template\task9.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1712294829 c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\tasks.h
+
+1712292744 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task10.c
+	<stdio.h>
+	"Tasks.h"
+
+1712295378 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task11.c
+	<stdio.h>
+	"Tasks.h"
+
+1712294823 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task12.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894682 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894683 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1712293778 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task4.c
+	<stdio.h>
+	"Tasks.h"
+
+1711894685 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task5.c
+	<stdio.h>
+	"Tasks.h"
+
+1712292746 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task6.c
+	<stdio.h>
+	"Tasks.h"
+
+1712292745 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task8.c
+	<stdio.h>
+	"Tasks.h"
+
+1712292745 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task9.c
+	<stdio.h>
+	"Tasks.h"
+
+1712292747 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task1.c
+	<stdio.h>
+
+1712293031 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\homework\tu_2024_grp43-main\template\task7.c
+	<stdio.h>
+	"Tasks.h"
+

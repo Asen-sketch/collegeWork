@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task10.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task11.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task12.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task7.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task8.c
+	<stdio.h>
+
+1710764543 source:c:\project\tu\projects\template\template\task9.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
+1713158266 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1713158266 c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\tasks.h
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task10.c
+	<stdio.h>
+	"Tasks.h"
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task11.c
+	<stdio.h>
+	"Tasks.h"
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task12.c
+	<stdio.h>
+	"Tasks.h"
+
+1713159725 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task2.c
+	<stdio.h>
+	<limits.h>
+
+1713159888 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task3.c
+	<stdio.h>
+	<limits.h>
+
+1713166267 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task4.c
+	<stdio.h>
+
+1713161240 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task5.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task6.c
+	<stdio.h>
+	"Tasks.h"
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task7.c
+	<stdio.h>
+	"Tasks.h"
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task8.c
+	<stdio.h>
+	"Tasks.h"
+
+1710770151 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task9.c
+	<stdio.h>
+	"Tasks.h"
+
+1713159281 source:c:\users\vladi\onedrive\uni stuff\baseprogramming\practice\sem\4\template\task1.c
+	<stdio.h>
+	<stdbool.h>
+
